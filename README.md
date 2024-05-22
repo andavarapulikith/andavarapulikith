@@ -14,6 +14,10 @@
 <a href="https://www.linkedin.com/in/likith-andavarapu-4a0085239/">![linkedin_145807 (1)](https://github.com/andavarapulikith/andavarapulikith/assets/108012282/75f65f37-613f-4486-b3fe-23b67246ddb0)
 
 </a>
+<a href="likithandavarapuiiits@gmail.com"><i class="fa-solid fa-envelope"></i></a>
+
+## Coding platforms I worked on:
+
 
 
 
