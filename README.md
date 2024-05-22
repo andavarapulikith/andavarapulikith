@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Likith Andavarapu
 
-<!--
-**andavarapulikith/andavarapulikith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🌐 Web Developer | 🤖 Machine Learning Enthusiast**.
 
 Here are some ideas to get you started:
 
