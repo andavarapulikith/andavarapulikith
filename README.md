@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andavarapulikith&label=Profile%20views&color=0e75b6&style=flat" alt="andavarapulikith" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andavarapulikith" alt="andavarapulikith" /></a> </p>
-
 - 🌱 I’m currently learning **full stack development and machine learning.**
 
 - 👀 I'm interested in **webdevelopment,competitive coding and machine learning.**
