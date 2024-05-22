@@ -11,10 +11,7 @@
 - 📫 How to reach me: likithandavarapuiiits@gmail.com
 
 ## Connect me:
-<a href="https://www.linkedin.com/in/likith-andavarapu-4a0085239/">![image](https://github.com/andavarapulikith/andavarapulikith/assets/108012282/34f952ad-c681-4eac-ac58-12976d0c4aae)
-
-</a>
-<a href="likithandavarapuiiits@gmail.com">![image](https://github.com/andavarapulikith/andavarapulikith/assets/108012282/a0882785-80d4-4471-90a3-7daff077e072)
+<a href="https://www.linkedin.com/in/likith-andavarapu-4a0085239/">![image](https://github.com/andavarapulikith/andavarapulikith/assets/108012282/80c4124e-a039-4b5b-b077-7dc3948c070e)
 </a>
 
 
